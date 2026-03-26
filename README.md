@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ashwin Yadav
-**A passionate Full Stack Developer || DevOps Engineer || Kafka Admin from India**
+**A passionate Full Stack Developer || DevOps Engineer || Engineer from India**
 
 Email Me 👉 ✉️ **ashwinyadav1420@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
