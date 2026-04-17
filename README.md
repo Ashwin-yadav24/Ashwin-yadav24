@@ -12,7 +12,27 @@ Email Me 👉 ✉️ **ashwinyadav1420@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-kumar-yadav) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-kumar-yadav)
+
+## 🏆 Certifications & Badges
+
+<p align="center">
+  
+   <a href="https://www.credly.com/" target="_blank">
+    <img src="https://images.credly.com/images/2b4f2381-9223-4c09-b6e7-c0a17d0045c4/blob" width="180" alt="MongoDB CRUD Badge"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/56e2e682-c9ec-48da-9ae1-1238cc03d65e/public_url" target="_blank">
+    <img src="https://images.credly.com/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="180" alt="MongoDB Monitoring Badge"/>
+  </a>
+  
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🏆%20MongoDB%20Skills-2%20Badges-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+</p>
 
 <!-- Snake Game Repo View -->
 
